@@ -87,7 +87,7 @@ The dashboard was created using:
 
 ## 📷 Dashboard Preview
 
-![HR Analytics Dashboard](Dashboard/HR_Analytics_Dashboard.png)
+HR_Analytics_Dashboard.png
 
 ## 📁 Project Structure
 
